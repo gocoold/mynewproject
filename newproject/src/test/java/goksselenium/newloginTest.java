@@ -9,6 +9,7 @@ public class newloginTest {
 	public void loginnew()
 	{
 		System.out.println("google new");
+		System.out.println("google new new");
 	}
 	
 }
